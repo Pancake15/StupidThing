@@ -1,0 +1,11 @@
+name: ds-boot-camp-prep
+channels:
+  - defaults
+dependencies:
+  - jupyter 
+  - matplotlib >= 3.8
+  - openpyxl >= 3.0
+  - pandas >= 2.0
+  - pip >= 24.0
+  - python = 3.12
+  - scikit-learn >= 1.4
