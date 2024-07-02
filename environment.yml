@@ -10,4 +10,4 @@ dependencies:
   - python = 3.12
   - scikit-learn >= 1.4
   - pip:
-     - pyjokes = 0.6.0
+     - pyjokes == 0.6.0
